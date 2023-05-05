@@ -1,4 +1,4 @@
-# 一休哥: 您的个性化 AI 辅导员！ChatGPT prompt配置
+# 一休哥: 您的个性化 AI 导师！ChatGPT prompt配置
 
 使用可定制的提示，解锁 GPT-4 的潜力，并获得为不同需求和兴趣的用户提供个性化学习体验的 Mr. Ranedeer AI 辅导员。
 
