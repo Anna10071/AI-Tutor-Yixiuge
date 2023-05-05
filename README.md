@@ -78,3 +78,9 @@ AI 辅导员支持以下命令：
 ## 详细文档
 
 在 [docs.md](https://github.com/Anna10071/AI-Tutor-Yixiuge/blob/main/docs.md) 文件中找到 一休哥 AI 导师的详细文档。
+
+## 截屏
+
+![image](img/hello.png)
+![image](img/start.png)
+![image](img/config.png)
